@@ -1,3 +1,5 @@
+#Publishing App
+
 This application which I have named Publishing app is about public news publishing portal where news can be published and disseminated. The requirements are : 
 
 1 - Any user could register with an email address. The application sends a verification link to the email address. 
@@ -15,19 +17,7 @@ Now the user is registered and is able to publish news. Without this verificatio
 6 - An RSS feed can be subscribed to, which includes latest 10 news articles. (DONE)
 
 
-/**************************************************************/
-
-
- *
- 
- 
- * CONFIGURE AND RUN THE APP 
- 
- 
- *
- 
- 
- **************************************************************/
+## CONFIGURE AND RUN THE APP 
  
  
  
@@ -52,18 +42,7 @@ So with these requirements fulfilled, you can run application following these st
 
 Here we go you can navigate by visiting the link http://localhost:8000
 
-/**************************************************************/
-
-
- *
  
- 
- * NOTE AND FEEDBACK 
- 
- 
- *
- 
- 
- **************************************************************/
+## NOTE AND FEEDBACK 
  
  
